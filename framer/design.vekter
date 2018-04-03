@@ -39,8 +39,8 @@
             "bottom" : null,
             "brightness" : 100,
             "brightnessEnabled" : 0,
-            "centerAnchorX" : 0.22933333333333333,
-            "centerAnchorY" : 0.22167487684729065,
+            "centerAnchorX" : 0.18533333333333332,
+            "centerAnchorY" : 0.081896551724137928,
             "constraintsLocked" : false,
             "contrast" : 100,
             "contrastEnabled" : 0,
@@ -57,7 +57,7 @@
             "id" : "pTKN5RJdM",
             "invert" : 0,
             "invertEnabled" : 0,
-            "left" : 86,
+            "left" : 35,
             "locked" : false,
             "name" : "numbtoFormat",
             "opacity" : 1,
@@ -90,42 +90,42 @@
                   ],
                   "inlineStyleRanges" : [
                     {
-                      "length" : 7,
+                      "length" : 15,
                       "offset" : 0,
                       "style" : "FONT:SFUIText-Regular"
                     },
                     {
-                      "length" : 7,
+                      "length" : 15,
                       "offset" : 0,
                       "style" : "COLOR:rgb(0, 0, 0)"
                     },
                     {
-                      "length" : 7,
+                      "length" : 15,
                       "offset" : 0,
                       "style" : "SIZE:16"
                     },
                     {
-                      "length" : 7,
+                      "length" : 15,
                       "offset" : 0,
                       "style" : "LETTERSPACING:0"
                     },
                     {
-                      "length" : 7,
+                      "length" : 15,
                       "offset" : 0,
                       "style" : "LINEHEIGHT:1.2"
                     }
                   ],
                   "key" : "e7k70",
-                  "text" : "1534032",
+                  "text" : "number template",
                   "type" : "unstyled"
                 }
               ],
               "cached" : {
-                "html" : "<span data-offset-key=\"e7k70-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;SFUIText-Regular&quot;, &quot;SF UI Text&quot;, sans-serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">1534032<\/span><\/span>",
+                "html" : "<span data-offset-key=\"e7k70-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;SFUIText-Regular&quot;, &quot;SF UI Text&quot;, sans-serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">number template<\/span><\/span>",
                 "os" : "10_13",
                 "size" : {
                   "height" : 19,
-                  "width" : 69
+                  "width" : 130
                 },
                 "width" : 0
               },
@@ -134,9 +134,9 @@
               }
             },
             "targetName" : "numbtoFormat",
-            "top" : 180,
+            "top" : 57,
             "visible" : true,
-            "width" : 69,
+            "width" : 130,
             "widthFactor" : null,
             "x" : 86,
             "y" : 180
